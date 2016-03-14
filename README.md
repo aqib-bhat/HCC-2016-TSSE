@@ -24,3 +24,5 @@ Since this was a simple static website, not using any web-framework like Rails o
 
 Sticky Notes feature included by using code from: http://tympanus.net/jstickynote/
 
+Last but not the least, a big thanks to the developers of Bootstrap and JQuery, 2 of the best frameworks ever developed, which have helped make UI/UX development fast and easy.
+
