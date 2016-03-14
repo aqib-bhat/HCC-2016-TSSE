@@ -4,7 +4,10 @@ This is the GitHub repository for the CSCE-655: Human-Centered Computing graduat
 Our aim was to build a Technology Shopping Support Environment.
 
 ## Functionality:
-On the home, the top section is
+On the home, the top section is where we can enter the Search Preferences. On clicking the 'Search' button, the search results would be shown.
+Currently, out of the 6 products for which the BigSemantics data is parsed, only the last one is displayed. After making the selection amon the search results, you can click on the 'Compare Now!' button to go to the Final Comparisons page. Hovering the mouse over or cliking any of the choices reults in changing the background color to give immediate feedback regarding selection. 
+
+You can use the Sticky Notes feature on either of the pages to make and save notes, which you might get on reflect in or on action.
 
 ## Issues not yet fixed:
 1. Only 1 product showing out of 6 on the first page.
