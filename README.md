@@ -1,7 +1,11 @@
 # HCC-2016-TSSE
 This is the GitHub repository for the CSCE-655: Human-Centered Computing graduate course project
 
-Our aim was to build a Technology Shopping Support Environment.
+Our aim was to build a Technology Shopping Support Environment. As per the course website:
+"By a Technology Shopping Support Environment (TSSE), we mean an interactive environment that helps people engage in comparative shopping, in which they make decisions about what specific product to buy, given a particular device category and associated needs. A shopper chooses the final product by comparing multiple candidate products. You can make your TSSE as general or specific as you like. Examples of device categories include mobile phone, personal computer, graphics card, game console, food processor...
+We are specifically defining the comparative shopping scope  as involving integrating information from multiple web sites."
+
+I chose mobile phones as the technology product and collected data for products from the following 3 webistes: Amazon, BestBuy, and eBay.
 
 ## Functionality:
 On the home, the top section is where we can enter the Search Preferences. On clicking the 'Search' button, the search results would be shown.
